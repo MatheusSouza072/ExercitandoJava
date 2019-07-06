@@ -20,7 +20,7 @@ public class Program {
             System.out.println("Error :" + e.getMessage());
         } finally {
             if (sc != null) {
-                sc.close();
+                sc.close();   
             }
 
         }
