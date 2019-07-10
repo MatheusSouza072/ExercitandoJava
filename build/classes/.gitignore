@@ -1,5 +1,4 @@
 /application/
-/cursojavacompleto/
 /entities/
-/services/
-/sdsd.class
+/model/
+/util/
